@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://willkoste:My2dogs95@devcamper-28hd1.mongodb.net/devconnector3?retryWrites=true&w=majority",
-  "jwtSecret": "DoobieDoggIsABoss",
-  "githubClientId": "d843f0a20e07e7b71950",
-  "githubClientSecret": "c7cf84d72230b037dbbed44d072a44c886e50c10"
-}
