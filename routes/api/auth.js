@@ -53,7 +53,7 @@ router.post('/', [check('email', 'Please include a valid email').isEmail(), chec
 
 		jwt.sign(
 			payload,
-			config.get('jwtSecret'),
+			process.env.jwtSecret,
 			{
 				expiresIn: 3600000
 			},
